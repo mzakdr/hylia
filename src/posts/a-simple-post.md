@@ -1,5 +1,6 @@
 ---
 title: My first post
+metaTitle: Puisi Angsti
 date: 2019-11-27T13:00:00.000Z
 tags:
   - poem
