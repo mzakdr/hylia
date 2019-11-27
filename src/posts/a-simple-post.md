@@ -1,5 +1,5 @@
 ---
-title: My first post
+title: My first post - A poem from 2013
 metaTitle: Puisi Angsti
 date: 2019-11-27T13:00:00.000Z
 tags:
@@ -12,7 +12,11 @@ tags:
 This was a note I wrote on Nov 9, 2013. Loc:  Ann Arbor, MI.
 
 `Kadang bila ku berseorangan`
+
+
 `Berteman sepi`
+
+
 `Berhujah sendirian bersama Tuhan`
 `Memikir kesilapan lalu dan segala kesalan`
 
