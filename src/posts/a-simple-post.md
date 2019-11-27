@@ -12,7 +12,11 @@ tags:
 This was a note I wrote on Nov 9, 2013. Loc:  Ann Arbor, MI.
 
 `Kadang bila ku berseorangan`
+
+
 `Berteman sepi`
+
+
 `Berhujah sendirian bersama Tuhan`
 `Memikir kesilapan lalu dan segala kesalan`
 
