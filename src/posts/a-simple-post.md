@@ -9,7 +9,7 @@ tags:
   - malay
   - '2013'
 ---
-This was a note I found from Nov 9, 2013. Written in Ann Arbor, MI.
+This was a note I wrote on Nov 9, 2013. Loc:  Ann Arbor, MI.
 
 `Kadang bila ku berseorangan`
 `Berteman sepi`
@@ -24,7 +24,6 @@ This was a note I found from Nov 9, 2013. Written in Ann Arbor, MI.
 `Cuma diri yang lemah tiada pendirian berpatah kosong`
 `Dimanakah makna tanpa kelakuan sama diusung`
 
-
 `Berhujah tidak bermadah`
 `Mereka katakan kurang siuman kurang ajar kurang minda puncaknya patah`
 `Dengarkan manusia hampa`
@@ -32,5 +31,5 @@ This was a note I found from Nov 9, 2013. Written in Ann Arbor, MI.
 `Ternak rimau tanpa belang, konon berilmu tanpa pedang, basah melayu kalau goncang`
 `Sudah pasti kosong penuhi ruang`
 `Khutbah kering tanpa orang`
-`Jasad wujud tiada minda `
+`Jasad wujud tiada minda`
 `Hati busuk tidak boleh berubah`
