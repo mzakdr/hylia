@@ -1,28 +1,119 @@
 ---
-title: A simple post
-date: '2019-06-18'
+title: My first post
+date: 2019-11-27T13:00:00.000Z
 tags:
-  - demo-content
-  - simple-post
-  - blog
+  - poem
+  - puisi
+  - throwback
+  - melayu
+  - malay
+  - '2013'
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
+This was a note I found from Nov 9, 2013. Written in Ann Arbor, MI.
 
-How about a `<blockquote>`?
-
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
-
-A list of stuff:
-
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
-
-How about an ordered list of stuff:
-
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
-
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+> Kadang bila ku berseorangan
+>
+> \
+>
+>
+> Berteman sepi
+>
+> \
+>
+>
+> Berhujah sendirian bersama Tuhan
+>
+> \
+>
+>
+> Memikir kesilapan lalu dan segala kesalan
+>
+> \
+>
+>
+> Ku merintih menitis air pilu mengharapkan semuanya dalam panduan
+>
+> \
+>
+>
+>
+>
+> \
+>
+>
+> Sejuk hening angin bertiup
+>
+> \
+>
+>
+> Kala pokok bermanja kemerahan
+>
+> \
+>
+>
+> Kurangnya bersyukur membekalkan hati hitam penuh sombong
+>
+> \
+>
+>
+> Sedangkan langit hitam tidak hujan bukannya ia bohong
+>
+> \
+>
+>
+> Cuma diri yang lemah tiada pendirian berpatah kosong
+>
+> \
+>
+>
+> Dimanakah makna tanpa kelakuan sama diusung
+>
+> \
+>
+>
+>
+>
+> \
+>
+>
+> Berhujah tidak bermadah
+>
+> \
+>
+>
+> Mereka katakan kurang siuman kurang ajar kurang minda puncaknya patah
+>
+> \
+>
+>
+> Dengarkan manusia hampa
+>
+> \
+>
+>
+> Berkata tanpa aksi bagai mengubi tak berisi
+>
+> \
+>
+>
+> Ternak rimau tanpa belang, konon berilmu tanpa pedang, basah melayu kalau goncang
+>
+> \
+>
+>
+> Sudah pasti kosong penuhi ruang
+>
+> \
+>
+>
+> Khutbah kering tanpa orang
+>
+> \
+>
+>
+> Jasad wujud tiada minda 
+>
+> \
+>
+>
+> Hati busuk tidak boleh berubah
