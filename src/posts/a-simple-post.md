@@ -5,7 +5,6 @@ date: 2019-11-27T13:00:00.000Z
 tags:
   - poem
   - puisi
-  - throwback
   - melayu
   - malay
   - '2013'
